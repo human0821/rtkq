@@ -1,1 +1,1 @@
-RTKQuery (Manual/Tag cache updates)
+Manual/Tag cache updates in RTKQuery
